@@ -1,0 +1,47 @@
+.region-left{
+    width: 30%;
+    float: left;
+    border: 1px solid black;
+}
+
+.region-left img{
+    width: 100%;
+    max-width: 300px;
+}
+
+.region-left h2{
+    text-align: center;
+}
+
+.region-left .content-title{
+    
+    color: red;
+    border-bottom: 1px solid green;
+}
+
+.region-left ul{
+    list-style: none;
+    padding-left: 15px;
+    font-size: 15px;
+}
+
+.region-right{
+    width: 69%;
+    float: right;
+}
+
+.content-title {
+    text-align: left;
+    font-size: 2opx;
+}
+
+.block-content{
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.region-right .content-title{
+    text-align: left;
+    color: rgb(1, 129, 48);
+    border-bottom: 1px solid rgb(47, 0, 117);
+}

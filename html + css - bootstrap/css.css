@@ -1,0 +1,18 @@
+.region-left .content-title{
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+.region-left img{
+    width: 100%;
+    max-width: 200px;
+}
+
+.region-right> .card{
+    margin-bottom: 20px;
+}
+
+body > .container{
+    padding-top: 20px;
+}
+
